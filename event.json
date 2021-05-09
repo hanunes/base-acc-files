@@ -1,0 +1,37 @@
+{
+  "track": "oulton_park_2020",
+  "preRaceWaitingTimeSeconds": 90,
+  "sessionOverTimeSeconds": 120,
+  "ambientTemp": 16,
+  "cloudLevel": 0.3,
+  "rain": 0.2,
+  "weatherRandomness": 3,
+  "postQualySeconds": 30,
+  "postRaceSeconds": 60,
+  "metaData": "",
+  "simracerWeatherConditions": 0,
+  "isFixedConditionQualification": 0,
+  "sessions": [
+    {
+      "hourOfDay": 12,
+      "dayOfWeekend": 1,
+      "timeMultiplier": 1,
+      "sessionType": 'P',
+      "sessionDurationMinutes": 5
+    },
+    {
+      "hourOfDay": 12,
+      "dayOfWeekend": 2,
+      "timeMultiplier": 1,
+      "sessionType": 'Q',
+      "sessionDurationMinutes": 10
+    },
+    {
+      "hourOfDay": 12,
+      "dayOfWeekend": 3,
+      "timeMultiplier": 1,
+      "sessionType": 'R',
+      "sessionDurationMinutes": 25
+    }
+  ]
+}
