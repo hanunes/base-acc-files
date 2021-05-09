@@ -16,21 +16,21 @@
       "hourOfDay": 12,
       "dayOfWeekend": 1,
       "timeMultiplier": 1,
-      "sessionType": 'P',
+      "sessionType": "P",
       "sessionDurationMinutes": 5
     },
     {
       "hourOfDay": 12,
       "dayOfWeekend": 2,
       "timeMultiplier": 1,
-      "sessionType": 'Q',
+      "sessionType": "Q",
       "sessionDurationMinutes": 10
     },
     {
       "hourOfDay": 12,
       "dayOfWeekend": 3,
       "timeMultiplier": 1,
-      "sessionType": 'R',
+      "sessionType": "R",
       "sessionDurationMinutes": 25
     }
   ]
