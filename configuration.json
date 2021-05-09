@@ -1,0 +1,8 @@
+{
+  "tcpPort": 9600,
+  "udpPort": 9601,
+  "registerToLobby": 1,
+  "maxConnections": 30,
+  "lanDiscovery": 0,
+  "configVersion": 1
+}
