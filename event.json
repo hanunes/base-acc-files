@@ -11,27 +11,5 @@
   "metaData": "",
   "simracerWeatherConditions": 0,
   "isFixedConditionQualification": 0,
-  "sessions": [
-    {
-      "hourOfDay": 12,
-      "dayOfWeekend": 1,
-      "timeMultiplier": 1,
-      "sessionType": "P",
-      "sessionDurationMinutes": 5
-    },
-    {
-      "hourOfDay": 12,
-      "dayOfWeekend": 2,
-      "timeMultiplier": 1,
-      "sessionType": "Q",
-      "sessionDurationMinutes": 10
-    },
-    {
-      "hourOfDay": 12,
-      "dayOfWeekend": 3,
-      "timeMultiplier": 1,
-      "sessionType": "R",
-      "sessionDurationMinutes": 25
-    }
-  ]
+  "sessions": [{"hourOfDay": 12,"dayOfWeekend": 1,"timeMultiplier": 1,"sessionType": "P","sessionDurationMinutes": 5},{"hourOfDay": 12,"dayOfWeekend": 2,"timeMultiplier": 1,"sessionType": "Q","sessionDurationMinutes": 10},{"hourOfDay": 12,"dayOfWeekend": 3,"timeMultiplier": 1,"sessionType": "R","sessionDurationMinutes": 25}]
 }
