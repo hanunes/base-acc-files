@@ -17,6 +17,7 @@ silverstone
 snetterton
 spa
 suzuka
+valencia
 watkins_glen
 zandvoort
 zolder
